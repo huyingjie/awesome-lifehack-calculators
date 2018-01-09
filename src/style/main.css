@@ -1,0 +1,52 @@
+html, body {
+    height: 100%;
+    background-color: Salmon;
+}
+
+html {
+    display: table;
+    margin: auto;
+    width: 800px
+}
+
+body {
+    display: table-cell;
+}
+
+h1 {
+  padding-top: 80px;
+  padding-bottom: 20px;
+  color: Salmon;
+}
+h2 {
+  padding-top: 0px
+}
+h3 {
+  font-size: 1.25em;
+}
+a {
+  color: Salmon;
+}
+
+a:hover {
+  color: red
+}
+
+
+
+p {
+  padding-top: 30px;
+}
+
+#intro{
+  border-bottom: 1px solid #333;
+}
+
+#main{
+  background: white;
+  padding: 0 10% 10% 10%;
+  margin: 40px 5% 5% 5%;
+  border: 1px dashed pink ;
+  border-radius: 10px;
+  border-width: 10px;
+}
