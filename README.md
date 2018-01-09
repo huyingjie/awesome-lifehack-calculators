@@ -4,7 +4,7 @@
 
 <div align="center" style="padding-bottom:10px">
 	<a href="http://lifehackcalculators.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Lifehack-brightgreen.svg"></a>
-	<a href="http://lifehackcalculators.yingjiehu.com/"><img src="https://travis-ci.org/huyingjie/Checklist-Checklist.svg?branch=master"></a>
+	<a href="http://lifehackcalculators.yingjiehu.com/"><img src="https://travis-ci.org/huyingjie/awesome-lifehack-calculators.svg?branch=master"></a>
 </div>
 <div align="center" style="font-size:14px">
 	<a href="http://lifehackcalculators.yingjiehu.com/">Website</a>&nbsp;&nbsp;&nbsp;
@@ -76,24 +76,24 @@ Ways you can help
 * Make sure your text editor is set to remove trailing whitespace.
 * (Optional) Please add a Awesome-Lifehack badge in the list added. <a href="http://lifehackcalculators.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Lifehack-blue.svg"></a>
 
-	You can use whatever color you like by replacing `<COLOR>` in 
-	
+	You can use whatever color you like by replacing `<COLOR>` in
+
 	`<a href="http://lifehackcalculators.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Lifehack-<CODE>.svg"></a>`.
-	
+
 	Example:
-		
+
 	* pink `ff69b4` <a href="http://lifehackcalculators.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Lifehack-ff69b4.svg"></a>
 
 		`<a href="http://lifehackcalculators.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Lifehack-ff69b4.svg"></a>`
-		
+
 	* red <a href="http://lifehackcalculators.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Lifehack-red.svg"></a>
-	
-		`<a href="http://lifehackcalculators.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Lifehack-red.svg"></a>`	
-	
+
+		`<a href="http://lifehackcalculators.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Lifehack-red.svg"></a>`
+
 	* blue <a href="http://lifehackcalculators.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Lifehack-blue.svg"></a>
-	
+
 		`<a href="http://lifehackcalculators.yingjiehu.com/"><img src="https://img.shields.io/badge/Awesome-Lifehack-blue.svg"></a>`
-		
+
 #### Quality standard
 
 To stay on the list, projects should follow these quality standards:
@@ -112,4 +112,3 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 [OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
-
