@@ -19,7 +19,7 @@
 
 ## <a id="table-of-contents"></a>Contents
 
-* [Buesiness](#Buesiness)
+* [Business](#Business)
 * [Tax](#Tax)
 * [Life](#Life)
 * [Games](#Games)
@@ -27,7 +27,7 @@
 * [Help Wanted](#Help-Wanted)
 
 
-## <a id="Buesiness"></a>Buesiness
+## <a id="Business"></a>Business
 
 * [Gumroad Plan Calculator](http://gumroadplancalculator.yingjiehu.com/) | [Code](https://github.com/huyingjie/gumroad-plan-calculator)
 * [Cloud Hosting Calculator](http://jagermesh.github.io/cloudhostingcalculator/) | [Code](https://github.com/jagermesh/cloudhostingcalculator#cloud-hosting-calculator)
