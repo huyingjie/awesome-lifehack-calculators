@@ -43,6 +43,7 @@
 
 * [Mortgage](http://paulhoughton.github.io/mortgage/) | [Code](https://github.com/paulhoughton/mortgage)
 * [Bedtime Calculator](http://sleepyti.me/) | [Code](https://github.com/davidshaw/sleepyti.me) - Count backwards in sleep cycles from the time you need to wake up
+* [Compound Interest Calculator](https://calculatormoney.com/en/compound-interest-calculator) - Calculate how your savings grow over time with compound interest.
 *  [Metro Card Calculator](http://ianmcnally.github.io/farely/) | [Code](https://github.com/ianmcnally/farely)
 
 ## <a id="Games"></a>Games
