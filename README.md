@@ -28,6 +28,7 @@
 
 
 ## <a id="Business"></a>Business
+n* [CalcFi](https://calcfi.app/) - 312+ free financial calculators (mortgage, tax, FIRE, debt payoff, compound interest, business break-even, freelance rate, and more). No signup, no ads.
 
 * [Gumroad Plan Calculator](http://gumroadplancalculator.yingjiehu.com/) | [Code](https://github.com/huyingjie/gumroad-plan-calculator)
 * [Cloud Hosting Calculator](http://jagermesh.github.io/cloudhostingcalculator/) | [Code](https://github.com/jagermesh/cloudhostingcalculator#cloud-hosting-calculator)
