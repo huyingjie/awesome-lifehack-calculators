@@ -44,6 +44,7 @@
 * [Mortgage](http://paulhoughton.github.io/mortgage/) | [Code](https://github.com/paulhoughton/mortgage)
 * [Bedtime Calculator](http://sleepyti.me/) | [Code](https://github.com/davidshaw/sleepyti.me) - Count backwards in sleep cycles from the time you need to wake up
 *  [Metro Card Calculator](http://ianmcnally.github.io/farely/) | [Code](https://github.com/ianmcnally/farely)
+* [PTO Calculator](https://pto-calc.com/) - Calculate your PTO accrual, balance, and state-by-state termination payout for US employees.
 
 ## <a id="Games"></a>Games
 
