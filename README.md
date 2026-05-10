@@ -39,11 +39,20 @@
 * [Calculate how much downtime should be permitted in your SLA ](https://dastergon.github.io/availability-calculator/) | [Code](https://github.com/dastergon/availability-calculator)
 
 
+* [Levyio - US Tax Calculators](https://levyio.com/) - Free US tax calculators by state and city. Income, property, and sales tax. 2026 IRS-aligned methodology.
+* [Amortio - Mortgage Calculators](https://www.amortio.com/) - Free mortgage calculators using Freddie Mac PMMS rate data.
+
 ## <a id="Life"></a>Life
 
 * [Mortgage](http://paulhoughton.github.io/mortgage/) | [Code](https://github.com/paulhoughton/mortgage)
 * [Bedtime Calculator](http://sleepyti.me/) | [Code](https://github.com/davidshaw/sleepyti.me) - Count backwards in sleep cycles from the time you need to wake up
 *  [Metro Card Calculator](http://ianmcnally.github.io/farely/) | [Code](https://github.com/ianmcnally/farely)
+
+* [Salario - US Salary Calculator](https://salario.io/) - Free US salary calculator by city × occupation.
+* [Hammerio - Construction Cost](https://hammerio.com/) - Free construction cost calculators by US city.
+* [Calorique - Nutrition](https://calorique.io/) - Free nutrition calculators (TDEE, BMR, macros).
+* [Degreecalc - College Cost](https://degreecalc.com/) - Free college cost and ROI calculators.
+* [Jouleio - Solar/EV](https://jouleio.com/) - Free solar payback and EV charging cost calculators.
 
 ## <a id="Games"></a>Games
 
