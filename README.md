@@ -41,6 +41,8 @@
 
 ## <a id="Life"></a>Life
 
+* [Concrete Calculator Hub](https://concreteestimatorhub.com/) - Free concrete bag coverage, cost, and ready-mix vs bags calculators.
+
 * [Mortgage](http://paulhoughton.github.io/mortgage/) | [Code](https://github.com/paulhoughton/mortgage)
 * [Bedtime Calculator](http://sleepyti.me/) | [Code](https://github.com/davidshaw/sleepyti.me) - Count backwards in sleep cycles from the time you need to wake up
 *  [Metro Card Calculator](http://ianmcnally.github.io/farely/) | [Code](https://github.com/ianmcnally/farely)
