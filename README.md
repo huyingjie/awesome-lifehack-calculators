@@ -31,6 +31,7 @@
 
 * [Gumroad Plan Calculator](http://gumroadplancalculator.yingjiehu.com/) | [Code](https://github.com/huyingjie/gumroad-plan-calculator)
 * [Cloud Hosting Calculator](http://jagermesh.github.io/cloudhostingcalculator/) | [Code](https://github.com/jagermesh/cloudhostingcalculator#cloud-hosting-calculator)
+* [CAGR Calculator](https://nutilz.com/cagr-calculator) - Free online tool to calculate Compound Annual Growth Rate (CAGR) between a start and end value over any time period, no signup required.
 
 ## <a id="Tax"></a>Tax
 
