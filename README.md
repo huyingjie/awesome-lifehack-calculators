@@ -44,6 +44,7 @@
 * [Mortgage](http://paulhoughton.github.io/mortgage/) | [Code](https://github.com/paulhoughton/mortgage)
 * [Bedtime Calculator](http://sleepyti.me/) | [Code](https://github.com/davidshaw/sleepyti.me) - Count backwards in sleep cycles from the time you need to wake up
 *  [Metro Card Calculator](http://ianmcnally.github.io/farely/) | [Code](https://github.com/ianmcnally/farely)
+* [Age Calculator](https://nutilz.com/age-calculator) - Calculate exact age in years, months, and days from a birth date, free and no signup required.
 
 ## <a id="Games"></a>Games
 
