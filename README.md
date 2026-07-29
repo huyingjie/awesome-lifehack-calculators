@@ -31,6 +31,7 @@
 
 * [Gumroad Plan Calculator](http://gumroadplancalculator.yingjiehu.com/) | [Code](https://github.com/huyingjie/gumroad-plan-calculator)
 * [Cloud Hosting Calculator](http://jagermesh.github.io/cloudhostingcalculator/) | [Code](https://github.com/jagermesh/cloudhostingcalculator#cloud-hosting-calculator)
+* [Project Cost Estimator](https://projectcostestimator.com/calculator) - Estimates website and software project costs by platform, region and team type, with a free JSON API. | [Code](https://github.com/VrumVrum/website-cost-api)
 
 ## <a id="Tax"></a>Tax
 
