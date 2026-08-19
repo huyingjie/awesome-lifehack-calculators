@@ -40,7 +40,7 @@
 
 
 ## <a id="Life"></a>Life
-
+* [Age Calculator](https://datecalx.com/age-calculator) - Calculate your age from your date of birth and a selected date.
 * [Mortgage](http://paulhoughton.github.io/mortgage/) | [Code](https://github.com/paulhoughton/mortgage)
 * [Bedtime Calculator](http://sleepyti.me/) | [Code](https://github.com/davidshaw/sleepyti.me) - Count backwards in sleep cycles from the time you need to wake up
 *  [Metro Card Calculator](http://ianmcnally.github.io/farely/) | [Code](https://github.com/ianmcnally/farely)
