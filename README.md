@@ -29,6 +29,7 @@
 
 ## <a id="Business"></a>Business
 
+
 * [Gumroad Plan Calculator](http://gumroadplancalculator.yingjiehu.com/) | [Code](https://github.com/huyingjie/gumroad-plan-calculator)
 * [Cloud Hosting Calculator](http://jagermesh.github.io/cloudhostingcalculator/) | [Code](https://github.com/jagermesh/cloudhostingcalculator#cloud-hosting-calculator)
 
@@ -111,4 +112,7 @@ Thanks to all [contributors](https://github.com/huyingjie/awesome-lifehack-calcu
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 [OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
-[Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
+[Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg-
+[Dash Calculator](https://dashcalculator.com) - Free online calculators for finance, health, math, and everyday decisions.
+
+
