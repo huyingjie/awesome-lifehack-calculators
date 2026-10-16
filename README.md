@@ -41,6 +41,7 @@
 
 ## <a id="Life"></a>Life
 
+* [2027 COLA / VA Disability Calculator](https://colacalculator2027.com/va-cola-2027-calculator/) - Free 2027 COLA calculator for VA disability rates, Social Security, FERS, and SSI (official 3.6% COLA).
 * [Mortgage](http://paulhoughton.github.io/mortgage/) | [Code](https://github.com/paulhoughton/mortgage)
 * [Bedtime Calculator](http://sleepyti.me/) | [Code](https://github.com/davidshaw/sleepyti.me) - Count backwards in sleep cycles from the time you need to wake up
 *  [Metro Card Calculator](http://ianmcnally.github.io/farely/) | [Code](https://github.com/ianmcnally/farely)
