@@ -31,6 +31,7 @@
 
 * [Gumroad Plan Calculator](http://gumroadplancalculator.yingjiehu.com/) | [Code](https://github.com/huyingjie/gumroad-plan-calculator)
 * [Cloud Hosting Calculator](http://jagermesh.github.io/cloudhostingcalculator/) | [Code](https://github.com/jagermesh/cloudhostingcalculator#cloud-hosting-calculator)
+* [SmartBizCalc](https://www.smartbizcalc.com) - 650+ free US small business calculators: self-employment tax, payroll, contractor pricing, break-even, S-corp savings, startup costs, retirement planning, and more; no sign-up required
 
 ## <a id="Tax"></a>Tax
 
