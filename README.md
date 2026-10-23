@@ -44,6 +44,7 @@
 * [Mortgage](http://paulhoughton.github.io/mortgage/) | [Code](https://github.com/paulhoughton/mortgage)
 * [Bedtime Calculator](http://sleepyti.me/) | [Code](https://github.com/davidshaw/sleepyti.me) - Count backwards in sleep cycles from the time you need to wake up
 *  [Metro Card Calculator](http://ianmcnally.github.io/farely/) | [Code](https://github.com/ianmcnally/farely)
+* [Roof Replacement Cost Calculator](https://roofcostdata.com/roof-replacement-cost-calculator) - Estimate a U.S. roof replacement planning range from roof size, material, pitch, tear-off, and location.
 
 ## <a id="Games"></a>Games
 
