@@ -37,6 +37,7 @@
 * [Dutch Tax Income calculator](http://thetax.nl/) | [Code](https://github.com/stevermeister/dutch-tax-income-calculator)
 * [U.S.](http://www.ospc.org/taxbrain/) | [Code](https://github.com/open-source-economics/Tax-Calculator)
 * [Calculate how much downtime should be permitted in your SLA ](https://dastergon.github.io/availability-calculator/) | [Code](https://github.com/dastergon/availability-calculator)
+* [U.S. County Property Tax & Closing Cost Calculator](https://zhangwen-hu.github.io/hearth-ledger/property-tax/) | [Code](https://github.com/Zhangwen-Hu/hearth-ledger) - Effective property tax rates, homestead exemptions, and closing costs across 51 states and 181 counties
 
 
 ## <a id="Life"></a>Life
@@ -44,6 +45,8 @@
 * [Mortgage](http://paulhoughton.github.io/mortgage/) | [Code](https://github.com/paulhoughton/mortgage)
 * [Bedtime Calculator](http://sleepyti.me/) | [Code](https://github.com/davidshaw/sleepyti.me) - Count backwards in sleep cycles from the time you need to wake up
 *  [Metro Card Calculator](http://ianmcnally.github.io/farely/) | [Code](https://github.com/ianmcnally/farely)
+* [Baker's Pizza Dough & Fermentation Calculator](https://zhangwen-hu.github.io/ember-and-crumb/dough-calculator/) | [Code](https://github.com/Zhangwen-Hu/ember-and-crumb) - 0.1g flour, hydration, poolish/biga, and yeast scaling by ambient temperature
+* [Ergonomic Desk, Chair & Monitor Height Calculator](https://zhangwen-hu.github.io/cedar-and-spine/fit-calculator/) | [Code](https://github.com/Zhangwen-Hu/cedar-and-spine) - Seated and standing workspace geometry from stature
 
 ## <a id="Games"></a>Games
 
